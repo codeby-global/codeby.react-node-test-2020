@@ -29,3 +29,6 @@ Este é o teste da CodeBy para testar seus conhecimentos de React e NodeJS. Quer
 * Utilizar `Adonis JS` pois o mesmo possui módulos prontos para boa parte das features exigidas.
 
 A ideia desse teste é verificar a sua flexibilidade diante das ferramentas fornecidas e conhecimentos gerais em questão de ReactJS e NodeJS. Não é necessário se preocupar com todas as features existentes no Instagram, mas é necessário que todas as que estejam presentes no sistema, como publicação de imagens, visualização de perfil, listagem de seguidores, extejam funcionando de forma correta.
+
+---
+Grupo [CodeBy](https://www.codeby.com.br)
